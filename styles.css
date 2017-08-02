@@ -14,3 +14,7 @@ header {
 .class-list {
   list-style-type: square;
 }
+
+.item {
+  border: 2px solid rgb(55, 45, 225);
+}
