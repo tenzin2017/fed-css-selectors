@@ -44,3 +44,8 @@ ol > li p {
 ol > li:nth-child(2n+1) > p {
   background-color: green;
 }
+
+
+a[title="Bitmaker"]:hover {
+  text-decoration: none;
+}
