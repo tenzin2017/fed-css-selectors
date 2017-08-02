@@ -22,3 +22,8 @@ header {
 .item.even {
   background-color: grey;
 }
+
+.item.odd {
+  background-color: black;
+  color: white;
+}
