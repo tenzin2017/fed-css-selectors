@@ -36,7 +36,11 @@ header {
   text-align: right;
 }
 
-article ol > li p {
+ol > li p {
   padding: 15px;
   background-color: grey;
+}
+
+ol > li:nth-child(2n+1) > p {
+  background-color: green;
 }
