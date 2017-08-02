@@ -10,3 +10,7 @@ h1, h2 {
 header {
   border: medium dotted green;
 }
+
+.class-list {
+  list-style-type: square;
+}
