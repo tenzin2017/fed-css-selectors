@@ -31,3 +31,7 @@ header {
 #item1 {
   font-size: 30px;
 }
+
+#item2 {
+  text-align: right;
+}
