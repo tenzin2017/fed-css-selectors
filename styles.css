@@ -18,3 +18,7 @@ header {
 .item {
   border: 2px solid rgb(55, 45, 225);
 }
+
+.item.even {
+  background-color: grey;
+}
